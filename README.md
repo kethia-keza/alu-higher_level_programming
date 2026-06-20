@@ -1,1 +1,1 @@
-This repository contains ALU Higher Level Programming tasks in Python.
+ALU Higher Level Programming - Python Intro
