@@ -1,1 +1,1 @@
-ALU Higher Level Programming - Python Intro
+ALU Higher Level Programming
